@@ -3,7 +3,7 @@ body {
     background-image:url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg");
     background-size:cover;
 }
-
+/** this is just a comment **/
 div {
     height:auto;
     width:auto;
