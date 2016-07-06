@@ -10,6 +10,10 @@ div {
     display:block;
     
 }
+
+#description {
+    margin-left:10px;
+}
 #subjects {
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
@@ -25,8 +29,8 @@ div {
     z-index:1;
     height:40px;
     background-color:#3EA0EA;
+    padding-left:10px;
 }
-
 
 
 
